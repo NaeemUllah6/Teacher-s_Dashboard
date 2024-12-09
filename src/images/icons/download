@@ -1,0 +1,173 @@
+<?php include 'include/header.php' ?>
+    <section class="hero-section">
+        <div class="">
+            <video src="assets/images/1113f6c9b641b05eacb1d7e596f20553_7887992.mp4" autoplay muted loop></video>
+        </div>
+        <div class="hero-content-main">
+            <div class="container">
+                <div class=" hero-content d-flex flex-column">
+                    <div>
+                        <p class="p-18-family text-white mt-5" style="text-align: left;">Welcome to Preach Technologies
+                        </p>
+                    </div>
+                    <div>
+                        <h2 class="h2-family text-white">Your Partner in <span class="heading-span">SaaS</span> Product
+                            Management and Software Development</h2>
+                    </div>
+                    <div>
+                        <p class="p-18-family text-white" style="text-align: left;">At Preach Concepts LLC, we turn
+                            innovative ideas into
+                            successful, scalable products, ensuring market fit and top-notch development for competitive
+                            success.</p>
+                    </div>
+                    <div> <button class="btn hero-button btn-outline-light">Start Your Project Today</button></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------------------***********Management**********----------------------------------------- -->
+    <section class="management">
+        <div class="container">
+            <h2 class="h3-28-family">Product Management <span class="small-span">Services</span></h2>
+            <p class="p-18-family">Our seasoned product managers work closely with you to</p>
+            <div class="card-flex-home gap-3 pt-3">
+                <div class="card p-3 mt-3 center-columns">
+                    <img style="width: 60px; height: 60px;" class="img-fluid" src="assets/images/svgexport-6 (82) 1.svg"
+                        alt="">
+                    <p class="card-heading">Identify Product-Market Fi</p>
+                    <p class="card-text">We conduct market, competitor, and user research to ensure your product meets needs and stands out.
+
+                    </p>
+                </div>
+                <div class="card p-3 mt-3 center-columns">
+                    <img style="width: 60px; height: 60px;" class="img-fluid" src="assets/images/Check Clipboard.svg"
+                        alt="">
+                    <p class="card-heading">Project Preparation</p>
+                    <p class="card-text">We meticulously prepare projects for development, ensuring all requirements are clear & actionable.</p>
+                </div>
+                <div class="card p-3 mt-3 center-columns">
+                    <img style="width: 60px; height: 60px;" class="img-fluid"
+                        src="assets/images/icons/data.26da5389.svg" alt="">
+                    <p class="card-heading">Data Analysis and Research</p>
+                    <p class="card-text">We leverage data to provide actionable insights, helping you make informed decisions.</p>
+                </div>
+                <div class="card p-3 mt-3 center-columns">
+                    <img style="width: 60px; height: 60px;" class="img-fluid"
+                        src="assets/images/svgexport-6 (82) 1 (2).svg" alt="">
+                    <p class="card-heading">Cost Analysis</p>
+                    <p class="card-text">We provide detailed cost analyses optimize your budget and maximize ROI
+
+                    </p>
+                </div>
+            </div>
+            <h2 class="h3-28-family pt-4">Development <span class="small-span">Services</span></h2>
+            <p class="p-18-family">Our seasoned product managers work closely with you to</p>
+            <div class=" card-flex-home gap-3 pt-3">
+
+                <div class="card p-3 ">
+                    <img style="width: 60px; height: 60px;" class="img-fluid"
+                        src="assets/images/icons/web.b3343e68 (1).svg" alt="">
+                    <p class="card-heading">Website Development</p>
+                    <p class="card-text">Crafting responsive, user-friendly websites that engage and convert.p>
+                </div>
+                <div class="card p-3">
+                    <img style="width: 60px; height: 60px;" class="img-fluid"
+                        src="assets/images/icons/sass.8c2452b6 (1).svg" alt="">
+                    <p class="card-heading">SaaS Web Applications</p>
+                    <p class="card-text">Building robust SaaS applications that scale seamlessly.</p>
+                </div>
+                <div class="card p-3">
+                    <img style="width: 60px; height: 60px;" class="img-fluid" src="assets/images/icons/mobile-app.0feaad06.svg"
+                        alt="">
+                    <p class="card-heading">Mobile App Development</p>
+                    <p class="card-text">Creating intuitive mobile apps for both iOS and Android platforms.</p>
+                </div>
+                <div class="card p-3">
+                    <img style="width: 60px; height: 60px;" class="img-fluid"
+                        src="assets/images/svgexport-6 (82) 1 (4).svg" alt="">
+                    <p class="card-heading">UI/UX Design</p>
+                    <p class="card-text">Designing captivating user interfaces and experiences that delight users.</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section class="practices">
+        <div class="container">
+            <div class="practices-main">
+                <div>
+                    <h2 class="h3-28-family text-white">Agile <span class="heading-span">Best Practices</span></h2>
+                    <p class="p-18-family text-white pt-2">We help you implement Agile best practices, fostering a
+                        collaborative and efficient development environment. Our approach ensures quick iterations,
+                        continuous feedback, and rapid delivery of high-quality products.
+                    </p>
+                </div>
+                <div>
+                    <img class="img-fluid" src="assets/images/Group 1261224017.svg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="choose">
+        <div class="container">
+            <h2 class="h3-28-family mb-4">Why Choose <span class="small-span">Preach Concept</span> LLC</h2>
+            <div class="LLC-flex">
+                <div>
+                    <img class="img-fluid card-image" src="assets/images/Group 1000004582.svg" alt="">
+                </div>
+                <div class="d-flex flex-column gap-4">
+                    <div class="d-flex llc-flex gap-4">
+                        <div class=" center-columns">
+                            <img class="img-fluid" src="assets/images/Group 1000004580.svg" alt="">
+                            <p class="card-heading">Expertise and Experience</p>
+                            <p class="card-text">Our team comprises experts with extensive experience in product management, development, and design.</p>
+                        </div>
+
+                        <div class=" center-columns">
+                            <img class="img-fluid" src="assets/images/Group 1000004580.svg" alt="">
+                            <p class="card-heading">Cost-Effective Solutions</p>
+                            <p class="card-text">We deliver top-tier services at a fraction of the cost, ensuring you get the best value for your investment.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex llc-flex gap-4">
+                        <div class=" center-columns">
+                            <img class="img-fluid" src="assets/images/Group 1000004580.svg" alt="">
+                            <p class="card-heading">Customer-Centric Approach</p>
+                            <p class="card-text">We prioritize your needs and work tirelessly to exceed your expectations.</p>
+                        </div>
+
+                        <div class=" center-columns">
+                            <img class="img-fluid" src="assets/images/Group 1000004580.svg" alt="">
+                            <p class="card-heading">Scalable Solutions</p>
+                            <p class="card-text">We build products designed to grow with your business, ensuring long-term success.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="partner">
+        <div class="container">
+            <div class="partner-main text-center d-flex flex-column gap-2">
+                <div>
+                    <h2 class="h3-28-family">Our Tech <span class="small-span">Partner</span></h2>
+                </div>
+                <div>
+                    <p class="card-text">Innovation and Success Together with Cutting-Edge Solutions and shared visions.
+                    </p>
+                </div>
+                <div class="d-flex gap-5 mt-4 justify-content-center partner-flex">
+                    <img class="img-fluid" src="assets/images/Group 1261224018.svg" alt="">
+                    <img class="img-fluid" src="assets/images/Frame 6.svg" alt="">
+                    <img class="img-fluid"
+                        src="assets/images/sync4tech-homepage-logo-you-gateway-to-technological-excellence 1.svg"
+                        alt="">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <?php include 'include/footer.php'; ?>
